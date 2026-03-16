@@ -1,4 +1,4 @@
-#FitCare – Health & Fitness Web Application
+FitCare – Health & Fitness Web Application
 
 Tech Stack:
 MongoDB, Express.js, React.js, Node.js
